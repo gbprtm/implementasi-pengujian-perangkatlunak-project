@@ -1,55 +1,23 @@
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+# Next.js
+.next/
+out/
 
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
-.DS_Store
-*.pem
-
-# debug
+# Node
+node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files
+# Environment
 .env
-.env*.local
-!.env.example
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# supabase
-supabase/.temp
-supabase/.branches
-
-# editor
-.idea/
-.vscode/*
-!.vscode/extensions.json
-
-# obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
+# Logs & Verification
+*.log
+dev.log
+/verification/
+.obsidian/
