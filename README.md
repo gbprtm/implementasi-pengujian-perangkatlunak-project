@@ -1,15 +1,15 @@
-# 🏋️‍♂️ Daily Tracker - Pelacak Kebugaran Harian
+# Daily Tracker - Pelacak Kebugaran Harian
 
 **Daily Tracker** adalah aplikasi web pelacak kebugaran harian (*fitness tracker*) yang dirancang untuk membantu pengguna mencatat aktivitas olahraga, memantau perkembangan berat badan, mengelola *to-do list* harian, serta menghitung target kalori dan rekomendasi menu makanan secara otomatis.
 
-> 📚 **Sumber Kebenaran Produk**: [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
-> 🔍 **Laporan Review Arsitektur**: [REVIEW.md](./REVIEW.md)
+> **Sumber Kebenaran Produk**: [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+> **Laporan Review Arsitektur**: [REVIEW.md](./REVIEW.md)
 
 ---
 
-## 🎯 Gambaran Utama Proyek
+## Gambaran Utama Proyek
 
-Prinsip utama sistem: **Satu input pengguna memicu banyak pembaruan otomatis secara konsistent (atomik)** — misalnya mencatat olahraga langsung mencentang *to-do list* terkait, menghitung kalori terbakar, dan memperbarui ringkasan harian.
+Prinsip utama sistem: **Satu input pengguna memicu banyak pembaruan otomatis secara konsisten (atomik)** — misalnya mencatat olahraga langsung mencentang *to-do list* terkait, menghitung kalori terbakar, dan memperbarui ringkasan harian.
 
 ### Fitur Utama
 - **Autentikasi & Profil Pengguna**: Pendaftaran, masuk, serta pengelolaan data fisik (jenis kelamin, usia, tinggi, berat badan, tingkat aktivitas, dan target berat).
@@ -21,7 +21,7 @@ Prinsip utama sistem: **Satu input pengguna memicu banyak pembaruan otomatis sec
 
 ---
 
-## 🛠️ Tech Stack (Teknologi)
+## Tech Stack (Teknologi)
 
 | Lapisan | Teknologi | Peran |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Prinsip utama sistem: **Satu input pengguna memicu banyak pembaruan otomatis sec
 
 ---
 
-## 🏗️ Aturan Arsitektur 4-Lapisan (*Strict 4-Layer Architecture*)
+## Aturan Arsitektur 4-Lapisan (*Strict 4-Layer Architecture*)
 
 Untuk menjaga kualitas kode dan kemudahan pengujian, repositori ini **wajib** mematuhi pemisahan 4 lapisan:
 
@@ -61,7 +61,7 @@ src/
 
 ---
 
-## 📊 Status Pengembangan per Tahap
+## Status Pengembangan per Tahap
 
 | Tahap | Nama Tahap | Frontend | Backend | Status |
 | :---: | --- | :---: | :---: | :---: |
@@ -78,7 +78,7 @@ src/
 
 ---
 
-## 🚀 Panduan Memulai (*Quickstart for Developers*)
+## Panduan Memulai (*Quickstart for Developers*)
 
 ### 1. Prasyarat
 - Node.js (v18 ke atas)
@@ -126,7 +126,7 @@ npm run build
 
 ---
 
-## 📄 Format Respons API Standards
+## Format Respons API Standards
 Seluruh Route Handler mengembalikan format JSON yang seragam:
 
 ```json
@@ -148,8 +148,8 @@ Seluruh Route Handler mengembalikan format JSON yang seragam:
 
 ---
 
-## 📑 Navigasi Dokumen Lanjutan
+## Navigasi Dokumen Lanjutan
 
-- 📄 [Dokumen PRD Lengkap](docs/00%20-%20PRD%20Daily%20Tracker.md)
-- 📝 [Laporan Review Arsitektur & Best Practices](REVIEW.md)
-- 📂 [Dokumentasi Tahap 1 (Fondasi & Auth)](docs/01%20-%20Tahap%201%20-%20Fondasi%20dan%20Autentikasi/backend.md)
+- [Dokumen PRD Lengkap](docs/00%20-%20PRD%20Daily%20Tracker.md)
+- [Laporan Review Arsitektur & Best Practices](REVIEW.md)
+- [Dokumentasi Tahap 1 (Fondasi & Auth)](docs/01%20-%20Tahap%201%20-%20Fondasi%20dan%20Autentikasi/backend.md)
