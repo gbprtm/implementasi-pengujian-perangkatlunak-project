@@ -49,7 +49,5 @@ supabase/.branches
 .vscode/*
 !.vscode/extensions.json
 
-# obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
+# obsidian — vault ada di lokal
+.obsidian/
