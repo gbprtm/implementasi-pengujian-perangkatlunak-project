@@ -48,3 +48,8 @@ supabase/.branches
 .idea/
 .vscode/*
 !.vscode/extensions.json
+
+# obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
