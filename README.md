@@ -1,8 +1,15 @@
 # Daily Tracker - Dokumentasi Proyek
 
-Dokumen kerja proyek Implementasi dan Pengujian Perangkat Lunak. Sumber kebenaran produk ada di PRD `Ide lain.md` pada vault Obsidian. Rencana tahap ada di `05 - Rencana Pengembangan Bertahap.md`.
+Dokumen kerja proyek Implementasi dan Pengujian Perangkat Lunak. Sumber kebenaran produk ada di PRD `docs/00 - PRD Daily Tracker.md`. Rencana tahap ada di `05 - Rencana Pengembangan Bertahap.md` pada vault Obsidian.
 
 Status: Fase 1 (P1) dikerjakan bertahap tanpa tenggat. Fase 2 dan Fase 3 ditunda.
+
+## Dokumen Produk
+
+| Dokumen | Berkas |
+| --- | --- |
+| PRD Daily Tracker | `docs/00 - PRD Daily Tracker.md` |
+| Rencana tahap | `05 - Rencana Pengembangan Bertahap.md` di vault Obsidian |
 
 ## Aturan Kerja
 
