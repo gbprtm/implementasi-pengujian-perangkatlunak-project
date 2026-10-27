@@ -1,3 +1,12 @@
+---
+title: Tahap 5 - Frontend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/05 - Tahap 5 - To-Do List/frontend|Frontend]] · [[docs/05 - Tahap 5 - To-Do List/backend|Backend]]
+
 # Tahap 5 - Frontend
 
 Status: belum mulai. Prasyarat: Tahap 3 selesai.
@@ -49,3 +58,11 @@ Menyediakan daftar tugas harian dengan progres dan penanda penyelesaian otomatis
 - E2E: to-do olahraga selesai otomatis setelah log dicatat.
 - E2E: hapus log, to-do otomatis kembali belum selesai.
 - Manual: navigasi keyboard pada checkbox.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/05 - Tahap 5 - To-Do List/frontend|Tahap 5 Frontend]] · [[docs/05 - Tahap 5 - To-Do List/backend|Tahap 5 Backend]]
+- Sebelumnya: [[docs/04 - Tahap 4 - Body Condition/frontend|Tahap 4 Frontend]] · [[docs/04 - Tahap 4 - Body Condition/backend|Tahap 4 Backend]]
+- Berikutnya: [[docs/06 - Tahap 6 - Dashboard dan Analytics/frontend|Tahap 6 Frontend]] · [[docs/06 - Tahap 6 - Dashboard dan Analytics/backend|Tahap 6 Backend]]

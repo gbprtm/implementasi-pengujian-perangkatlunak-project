@@ -1,3 +1,12 @@
+---
+title: Tahap 2 - Backend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/02 - Tahap 2 - Profil dan Onboarding/frontend|Frontend]] · [[docs/02 - Tahap 2 - Profil dan Onboarding/backend|Backend]]
+
 # Tahap 2 - Backend
 
 Status: belum mulai. Prasyarat: Tahap 1 selesai.
@@ -61,3 +70,11 @@ Respons seragam `{ data, error }`.
 - Unit: batas usia, tinggi, berat, arah target.
 - API: input tidak valid, tanpa sesi, update sebagian.
 - Integrasi: onboarding menulis profil dan berat awal dalam satu alur.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/02 - Tahap 2 - Profil dan Onboarding/frontend|Tahap 2 Frontend]] · [[docs/02 - Tahap 2 - Profil dan Onboarding/backend|Tahap 2 Backend]]
+- Sebelumnya: [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/frontend|Tahap 1 Frontend]] · [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/backend|Tahap 1 Backend]]
+- Berikutnya: [[docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/frontend|Tahap 3 Frontend]] · [[docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/backend|Tahap 3 Backend]]

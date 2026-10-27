@@ -1,3 +1,12 @@
+---
+title: Tahap 7 - Frontend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/07 - Tahap 7 - Pengujian dan Deploy/frontend|Frontend]] · [[docs/07 - Tahap 7 - Pengujian dan Deploy/backend|Backend]]
+
 # Tahap 7 - Frontend
 
 Status: belum mulai. Prasyarat: Tahap 6 selesai.
@@ -40,3 +49,11 @@ Membuktikan kualitas UI Fase 1 dan menyiapkan bukti pengujian.
 - Berkas uji E2E.
 - Laporan hasil dengan tangkapan layar.
 - Daftar isu terbuka bila ada.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/07 - Tahap 7 - Pengujian dan Deploy/frontend|Tahap 7 Frontend]] · [[docs/07 - Tahap 7 - Pengujian dan Deploy/backend|Tahap 7 Backend]]
+- Sebelumnya: [[docs/06 - Tahap 6 - Dashboard dan Analytics/frontend|Tahap 6 Frontend]] · [[docs/06 - Tahap 6 - Dashboard dan Analytics/backend|Tahap 6 Backend]]
+- Berikutnya: [[docs/08 - Tahap 8 - Kalori dan Makanan/frontend|Tahap 8 Frontend]] · [[docs/08 - Tahap 8 - Kalori dan Makanan/backend|Tahap 8 Backend]]

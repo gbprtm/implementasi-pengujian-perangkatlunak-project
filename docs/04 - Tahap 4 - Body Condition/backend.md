@@ -1,3 +1,12 @@
+---
+title: Tahap 4 - Backend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/04 - Tahap 4 - Body Condition/frontend|Frontend]] · [[docs/04 - Tahap 4 - Body Condition/backend|Backend]]
+
 # Tahap 4 - Backend
 
 Status: belum mulai. Prasyarat: Tahap 3 selesai.
@@ -60,3 +69,11 @@ progress = ((berat_awal - berat_terbaru) / (berat_awal - target)) x 100
 - Unit: rumus progres, pembatasan 0-100, arah naik dan turun, target sama dengan awal.
 - Integrasi: constraint unik dan upsert.
 - API: validasi tanggal, berat, target, confirm.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/04 - Tahap 4 - Body Condition/frontend|Tahap 4 Frontend]] · [[docs/04 - Tahap 4 - Body Condition/backend|Tahap 4 Backend]]
+- Sebelumnya: [[docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/frontend|Tahap 3 Frontend]] · [[docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/backend|Tahap 3 Backend]]
+- Berikutnya: [[docs/05 - Tahap 5 - To-Do List/frontend|Tahap 5 Frontend]] · [[docs/05 - Tahap 5 - To-Do List/backend|Tahap 5 Backend]]

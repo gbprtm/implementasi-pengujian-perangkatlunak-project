@@ -1,3 +1,12 @@
+---
+title: Tahap 9 - Frontend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/09 - Tahap 9 - Pengingat Streak Template/frontend|Frontend]] · [[docs/09 - Tahap 9 - Pengingat Streak Template/backend|Backend]]
+
 # Tahap 9 - Frontend
 
 Status: ditunda. Prasyarat: Tahap 8 selesai.
@@ -44,3 +53,11 @@ Menambahkan retensi dan kenyamanan: pengingat, streak, template latihan, dan ins
 - E2E: atur pengingat, lihat status.
 - E2E: pakai template, log terbentuk.
 - Manual: streak setelah beberapa hari aktivitas.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/09 - Tahap 9 - Pengingat Streak Template/frontend|Tahap 9 Frontend]] · [[docs/09 - Tahap 9 - Pengingat Streak Template/backend|Tahap 9 Backend]]
+- Sebelumnya: [[docs/08 - Tahap 8 - Kalori dan Makanan/frontend|Tahap 8 Frontend]] · [[docs/08 - Tahap 8 - Kalori dan Makanan/backend|Tahap 8 Backend]]
+- Berikutnya: tidak ada

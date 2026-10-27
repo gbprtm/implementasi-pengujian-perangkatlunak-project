@@ -1,3 +1,12 @@
+---
+title: Tahap 8 - Backend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/08 - Tahap 8 - Kalori dan Makanan/frontend|Frontend]] · [[docs/08 - Tahap 8 - Kalori dan Makanan/backend|Backend]]
+
 # Tahap 8 - Backend
 
 Status: ditunda. Prasyarat: Tahap 7 selesai.
@@ -60,3 +69,11 @@ Test case baku:
 - Unit: BMR, target, batas bawah, algoritma rekomendasi.
 - Integrasi: pipeline memperbarui target saat profil, berat, atau olahraga berubah.
 - API: pencarian, log, rekomendasi, tanpa sesi.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/08 - Tahap 8 - Kalori dan Makanan/frontend|Tahap 8 Frontend]] · [[docs/08 - Tahap 8 - Kalori dan Makanan/backend|Tahap 8 Backend]]
+- Sebelumnya: [[docs/07 - Tahap 7 - Pengujian dan Deploy/frontend|Tahap 7 Frontend]] · [[docs/07 - Tahap 7 - Pengujian dan Deploy/backend|Tahap 7 Backend]]
+- Berikutnya: [[docs/09 - Tahap 9 - Pengingat Streak Template/frontend|Tahap 9 Frontend]] · [[docs/09 - Tahap 9 - Pengingat Streak Template/backend|Tahap 9 Backend]]

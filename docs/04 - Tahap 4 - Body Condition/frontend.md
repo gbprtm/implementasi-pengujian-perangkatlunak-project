@@ -1,3 +1,12 @@
+---
+title: Tahap 4 - Frontend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/04 - Tahap 4 - Body Condition/frontend|Frontend]] · [[docs/04 - Tahap 4 - Body Condition/backend|Backend]]
+
 # Tahap 4 - Frontend
 
 Status: belum mulai. Prasyarat: Tahap 3 selesai.
@@ -51,3 +60,11 @@ Menampilkan riwayat berat badan, target, dan progres dalam satu halaman yang jel
 - E2E: input kedua pada hari yang sama menimpa.
 - E2E: target tidak searah ditolak.
 - Manual: tampilan grafik pada 360 px.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/04 - Tahap 4 - Body Condition/frontend|Tahap 4 Frontend]] · [[docs/04 - Tahap 4 - Body Condition/backend|Tahap 4 Backend]]
+- Sebelumnya: [[docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/frontend|Tahap 3 Frontend]] · [[docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/backend|Tahap 3 Backend]]
+- Berikutnya: [[docs/05 - Tahap 5 - To-Do List/frontend|Tahap 5 Frontend]] · [[docs/05 - Tahap 5 - To-Do List/backend|Tahap 5 Backend]]

@@ -1,3 +1,12 @@
+---
+title: Tahap 6 - Backend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/06 - Tahap 6 - Dashboard dan Analytics/frontend|Frontend]] · [[docs/06 - Tahap 6 - Dashboard dan Analytics/backend|Backend]]
+
 # Tahap 6 - Backend
 
 Status: belum mulai. Prasyarat: Tahap 3, 4, dan 5 selesai.
@@ -54,3 +63,11 @@ Rentang divalidasi hanya 7, 30, 90. Data dikelompokkan per hari untuk berat dan 
 - Integrasi: ringkasan konsisten dengan sumber setelah perubahan.
 - API: rentang tidak valid, tanpa sesi, tanggal kosong.
 - Performa: p95 baca di bawah 500 ms pada data uji.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/06 - Tahap 6 - Dashboard dan Analytics/frontend|Tahap 6 Frontend]] · [[docs/06 - Tahap 6 - Dashboard dan Analytics/backend|Tahap 6 Backend]]
+- Sebelumnya: [[docs/05 - Tahap 5 - To-Do List/frontend|Tahap 5 Frontend]] · [[docs/05 - Tahap 5 - To-Do List/backend|Tahap 5 Backend]]
+- Berikutnya: [[docs/07 - Tahap 7 - Pengujian dan Deploy/frontend|Tahap 7 Frontend]] · [[docs/07 - Tahap 7 - Pengujian dan Deploy/backend|Tahap 7 Backend]]

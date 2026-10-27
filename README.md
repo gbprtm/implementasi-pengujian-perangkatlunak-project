@@ -1,6 +1,6 @@
 # Daily Tracker - Dokumentasi Proyek
 
-Dokumen kerja proyek Implementasi dan Pengujian Perangkat Lunak. Sumber kebenaran produk ada di PRD `docs/00 - PRD Daily Tracker.md`. Rencana tahap ada di `05 - Rencana Pengembangan Bertahap.md` pada vault Obsidian.
+Dokumen kerja proyek Implementasi dan Pengujian Perangkat Lunak. Sumber kebenaran produk ada di [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]. Rencana tahap ada di `05 - Rencana Pengembangan Bertahap.md` pada vault Obsidian.
 
 Status: Fase 1 (P1) dikerjakan bertahap tanpa tenggat. Fase 2 dan Fase 3 ditunda.
 
@@ -8,7 +8,8 @@ Status: Fase 1 (P1) dikerjakan bertahap tanpa tenggat. Fase 2 dan Fase 3 ditunda
 
 | Dokumen | Berkas |
 | --- | --- |
-| PRD Daily Tracker | `docs/00 - PRD Daily Tracker.md` |
+| PRD Daily Tracker | [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]] |
+| Tahap 0 | [[docs/00 - Tahap 0 - Arsip dan Penggantian|Tahap 0 - Arsip dan Penggantian]] |
 | Rencana tahap | `05 - Rencana Pengembangan Bertahap.md` di vault Obsidian |
 
 ## Aturan Kerja
@@ -24,18 +25,18 @@ Status: Fase 1 (P1) dikerjakan bertahap tanpa tenggat. Fase 2 dan Fase 3 ditunda
 
 ## Peta Tahap
 
-| Tahap | Nama | Dokumen | Status |
-| --- | --- | --- | --- |
-| 0 | Arsip dan penggantian ide | `docs/00 - Tahap 0 - Arsip dan Penggantian.md` | Selesai |
-| 1 | Fondasi dan autentikasi | `docs/01 - Tahap 1 - Fondasi dan Autentikasi/` | Berikutnya |
-| 2 | Profil dan onboarding | `docs/02 - Tahap 2 - Profil dan Onboarding/` | Belum mulai |
-| 3 | Exercise tracking dan pipeline | `docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/` | Belum mulai |
-| 4 | Body condition tracking | `docs/04 - Tahap 4 - Body Condition/` | Belum mulai |
-| 5 | To-do list | `docs/05 - Tahap 5 - To-Do List/` | Belum mulai |
-| 6 | Dashboard dan analytics | `docs/06 - Tahap 6 - Dashboard dan Analytics/` | Belum mulai |
-| 7 | Pengujian, deploy, laporan | `docs/07 - Tahap 7 - Pengujian dan Deploy/` | Belum mulai |
-| 8 | Fase 2: kalori dan makanan | `docs/08 - Tahap 8 - Kalori dan Makanan/` | Ditunda |
-| 9 | Fase 3: pengingat, streak, template | `docs/09 - Tahap 9 - Pengingat Streak Template/` | Ditunda |
+| Tahap | Nama | Frontend | Backend | Status |
+| --- | --- | --- | --- | --- |
+| 0 | Arsip dan penggantian ide | [[docs/00 - Tahap 0 - Arsip dan Penggantian|Tahap 0]] | - | Selesai |
+| 1 | Fondasi dan autentikasi | [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/frontend|Frontend]] | [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/backend|Backend]] | Berikutnya |
+| 2 | Profil dan onboarding | [[docs/02 - Tahap 2 - Profil dan Onboarding/frontend|Frontend]] | [[docs/02 - Tahap 2 - Profil dan Onboarding/backend|Backend]] | Belum mulai |
+| 3 | Exercise tracking dan pipeline | [[docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/frontend|Frontend]] | [[docs/03 - Tahap 3 - Exercise Tracking dan Pipeline/backend|Backend]] | Belum mulai |
+| 4 | Body condition tracking | [[docs/04 - Tahap 4 - Body Condition/frontend|Frontend]] | [[docs/04 - Tahap 4 - Body Condition/backend|Backend]] | Belum mulai |
+| 5 | To-do list | [[docs/05 - Tahap 5 - To-Do List/frontend|Frontend]] | [[docs/05 - Tahap 5 - To-Do List/backend|Backend]] | Belum mulai |
+| 6 | Dashboard dan analytics | [[docs/06 - Tahap 6 - Dashboard dan Analytics/frontend|Frontend]] | [[docs/06 - Tahap 6 - Dashboard dan Analytics/backend|Backend]] | Belum mulai |
+| 7 | Pengujian, deploy, laporan | [[docs/07 - Tahap 7 - Pengujian dan Deploy/frontend|Frontend]] | [[docs/07 - Tahap 7 - Pengujian dan Deploy/backend|Backend]] | Belum mulai |
+| 8 | Fase 2: kalori dan makanan | [[docs/08 - Tahap 8 - Kalori dan Makanan/frontend|Frontend]] | [[docs/08 - Tahap 8 - Kalori dan Makanan/backend|Backend]] | Ditunda |
+| 9 | Fase 3: pengingat, streak, template | [[docs/09 - Tahap 9 - Pengingat Streak Template/frontend|Frontend]] | [[docs/09 - Tahap 9 - Pengingat Streak Template/backend|Backend]] | Ditunda |
 
 ## Struktur Repositori yang Dituju
 
@@ -83,4 +84,9 @@ Status: Fase 1 (P1) dikerjakan bertahap tanpa tenggat. Fase 2 dan Fase 3 ditunda
 2. Kerjakan backend lebih dulu bila kontrak API belum ada.
 3. Tutup tahap setelah Definition of Done dan pengujian terpenuhi.
 4. Perbarui status di tabel ini.
-# implementasi-pengujian-perangkatlunak-project
+
+## Navigasi
+
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/00 - Tahap 0 - Arsip dan Penggantian|Tahap 0 - Arsip dan Penggantian]]
+- [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/frontend|Tahap 1 Frontend]] · [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/backend|Tahap 1 Backend]]

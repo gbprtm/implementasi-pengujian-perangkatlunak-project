@@ -1,3 +1,12 @@
+---
+title: Tahap 7 - Backend
+created: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
+> [[README|Indeks]] · [[docs/00 - PRD Daily Tracker|PRD]] · [[docs/07 - Tahap 7 - Pengujian dan Deploy/frontend|Frontend]] · [[docs/07 - Tahap 7 - Pengujian dan Deploy/backend|Backend]]
+
 # Tahap 7 - Backend
 
 Status: belum mulai. Prasyarat: Tahap 6 selesai.
@@ -45,3 +54,11 @@ Menutup pengujian backend, keamanan, keandalan, dan menyiapkan deploy.
 - Hasil uji keamanan, keandalan, performa.
 - Pipeline CI.
 - Laporan pengujian dan tautan deploy.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
+- [[docs/07 - Tahap 7 - Pengujian dan Deploy/frontend|Tahap 7 Frontend]] · [[docs/07 - Tahap 7 - Pengujian dan Deploy/backend|Tahap 7 Backend]]
+- Sebelumnya: [[docs/06 - Tahap 6 - Dashboard dan Analytics/frontend|Tahap 6 Frontend]] · [[docs/06 - Tahap 6 - Dashboard dan Analytics/backend|Tahap 6 Backend]]
+- Berikutnya: [[docs/08 - Tahap 8 - Kalori dan Makanan/frontend|Tahap 8 Frontend]] · [[docs/08 - Tahap 8 - Kalori dan Makanan/backend|Tahap 8 Backend]]

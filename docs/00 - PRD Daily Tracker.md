@@ -1,3 +1,11 @@
+---
+title: PRD Daily Tracker
+created: 2026-10-26
+updated: 2026-10-27
+tags:
+  - implementasiPengujianPerangkatLunak
+---
+
 # PRD Daily Tracker: Web Pelacak Kebugaran Harian
 
   
@@ -803,3 +811,9 @@ Validasi dilakukan dua kali: di form (pengalaman pengguna) dan di server dengan 
 4. Skor SUS pada uji pengguna mencapai 68 atau lebih.
 
 5. Aplikasi terdeploy, dokumentasi dan laporan pengujian lengkap.
+
+## Navigasi
+
+- [[README|Indeks dokumentasi]]
+- [[docs/00 - Tahap 0 - Arsip dan Penggantian|Tahap 0 - Arsip dan Penggantian]]
+- [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/frontend|Tahap 1 Frontend]] · [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/backend|Tahap 1 Backend]]
