@@ -38,6 +38,27 @@ Status: Fase 1 (P1) dikerjakan bertahap tanpa tenggat. Fase 2 dan Fase 3 ditunda
 | 8 | Fase 2: kalori dan makanan | [[docs/08 - Tahap 8 - Kalori dan Makanan/frontend|Frontend]] | [[docs/08 - Tahap 8 - Kalori dan Makanan/backend|Backend]] | Ditunda |
 | 9 | Fase 3: pengingat, streak, template | [[docs/09 - Tahap 9 - Pengingat Streak Template/frontend|Frontend]] | [[docs/09 - Tahap 9 - Pengingat Streak Template/backend|Backend]] | Ditunda |
 
+## To-Do Backend (Tracker Lokal)
+
+Tiket backend Fase 1 dibuat dengan skill `to-tickets`, satu berkas per tiket. Spec dan indeks: [[.scratch/backend/spec|Spec Backend Fase 1]].
+
+| No | Tiket | Blocked by |
+| --- | --- | --- |
+| 01 | [[.scratch/backend/issues/01-kerangka-dan-harness|Kerangka dan harness]] | None |
+| 02 | [[.scratch/backend/issues/02-skema-rls-seed|Skema, RLS, seed MET]] | 01 |
+| 03 | [[.scratch/backend/issues/03-autentikasi-sesi|Autentikasi sesi]] | 02 |
+| 04 | [[.scratch/backend/issues/04-profil-dan-berat-awal|Profil dan berat awal]] | 03 |
+| 05 | [[.scratch/backend/issues/05-catat-olahraga-kalori-met|Catat olahraga, kalori MET]] | 04 |
+| 06 | [[.scratch/backend/issues/06-todo-harian|To-do harian]] | 04 |
+| 07 | [[.scratch/backend/issues/07-pipeline-sinkronisasi|Pipeline sinkronisasi]] | 05, 06 |
+| 08 | [[.scratch/backend/issues/08-edit-hapus-log-olahraga|Edit dan hapus log]] | 07 |
+| 09 | [[.scratch/backend/issues/09-body-condition-progres|Body condition dan progres]] | 04 |
+| 10 | [[.scratch/backend/issues/10-ringkasan-harian|Ringkasan harian]] | 07, 09 |
+| 11 | [[.scratch/backend/issues/11-analitik-rentang|Analitik rentang]] | 10 |
+| 12 | [[.scratch/backend/issues/12-pengerasan-deploy|Pengerasan dan deploy]] | 11 |
+
+Frontier: tiket 01. Eksekusi mengikuti tiket yang seluruh penghalangnya selesai, nomor terkecil lebih dulu.
+
 ## Struktur Repositori yang Dituju
 
 ```
@@ -90,3 +111,4 @@ Status: Fase 1 (P1) dikerjakan bertahap tanpa tenggat. Fase 2 dan Fase 3 ditunda
 - [[docs/00 - PRD Daily Tracker|PRD Daily Tracker]]
 - [[docs/00 - Tahap 0 - Arsip dan Penggantian|Tahap 0 - Arsip dan Penggantian]]
 - [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/frontend|Tahap 1 Frontend]] · [[docs/01 - Tahap 1 - Fondasi dan Autentikasi/backend|Tahap 1 Backend]]
+- [[.scratch/backend/spec|Spec Backend Fase 1]] · [[.scratch/backend/issues/01-kerangka-dan-harness|Tiket 01 Kerangka dan Harness]]
